@@ -1,0 +1,15 @@
+e:\Dotnet\SocarMineSwipper\MineSwipper\bin\Debug\MineSwipper.exe.config
+e:\Dotnet\SocarMineSwipper\MineSwipper\bin\Debug\MineSwipper.exe
+e:\Dotnet\SocarMineSwipper\MineSwipper\bin\Debug\MineSwipper.pdb
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.csprojAssemblyReference.cache
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MainWindow.g.cs
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\App.g.cs
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper_MarkupCompile.cache
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper_MarkupCompile.lref
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MainWindow.baml
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.g.resources
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.Properties.Resources.resources
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.csproj.GenerateResource.cache
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.csproj.CoreCompileInputs.cache
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.exe
+e:\Dotnet\SocarMineSwipper\MineSwipper\obj\Debug\MineSwipper.pdb
